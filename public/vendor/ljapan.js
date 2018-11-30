@@ -1,0 +1,1 @@
+var ljapan = angular.module('ljapan',[]);

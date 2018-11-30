@@ -1,0 +1,17 @@
+{
+  "name": "languagesjapan",
+  "description": "",
+  "main": "",
+  "authors": [
+    "lsrwvw <lsrwvw.outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lsrwvw/languagesjapan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
